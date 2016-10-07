@@ -48,6 +48,7 @@ public class FixDebugFourteen3 extends JFrame implements ItemListener
          totalPrice = pizzaPrice[pizzaNum];
          output = "Pizza Price $" + totalPrice;
          totPrice.setText(output);
+
       }
    }
 }

@@ -62,6 +62,7 @@ public class FixDebugFourteen4 extends JFrame implements ItemListener
       else
       {
          totPrice.setText("$" + LOW_PRICE);
+
       }
    }
 }

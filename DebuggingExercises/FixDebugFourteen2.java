@@ -45,6 +45,7 @@ public class FixDebugFourteen2 extends JFrame implements ItemListener
          feePct = fees[fee];
          output = feePct + " " + pctMsg;
          totFees.setText(output);
+
       }
    }
 }
