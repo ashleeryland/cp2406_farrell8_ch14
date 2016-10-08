@@ -15,5 +15,5 @@ public class FixDebugFourteen1 extends JFrame
       FixDebugFourteen1 frame = new FixDebugFourteen1(200);
       frame.setVisible(true);
    }
-   
+
 }
